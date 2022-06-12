@@ -1,6 +1,11 @@
+# Protein DevOps Engineer Bootcamp
 
+### 3.Hafta 1.Odev
 
-### 2.Hafta 1.Odev
+**_Built with;_**
+
+[![Linux][#linux]][@linux] [![Bash][#bash]][@bash] [![Docker][#docker]][@docker] 
+
 ---
 
 ## Table of contents[![](./docs/img/pin.svg)](#table-of-contents)
@@ -109,6 +114,33 @@ dosyalarini yazmalisiniz.
 
 
 #### Example Usage: [![](./docs/img/pin.svg)](#usage)
+
+### :computer: **Teknolojiler**
+
+> - Linux :heart:
+> - Bash Scripting
+> - Docker
+
+<!-- Badge Index -->
+
+[#linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
+[#bash]: https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white
+[#docker]: https://img.shields.io/badge/docker-183A61?style=flat&logo=virtualbox&logoColor=blue
+
+
+<!-- URL Index -->
+
+[@patika]: https://www.patika.dev/
+[@protein]: https://protein.tech/
+[@linux]: https://www.linux.org/
+[@bash]: https://www.gnu.org/software/bash/
+[@docker]: https://www.docker.com/
+
+
+
+
+
+
 
 
 ```shell
